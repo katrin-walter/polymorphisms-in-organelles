@@ -156,9 +156,5 @@ analysis in a pool-sequencing context.
 
 ---
 
-## Attribution
-
-Originally developed by **Evelien Jongepier**
-(<https://github.com/ejongepier/compgen-caulerpa-fin>) for *Caulerpa*
-chloroplast comparative genomics. This repository is a lightly modified
-adaptation of that workflow.
+Attribution
+Originally developed by **Evelien Jongepier** for *Caulerpa* chloroplast comparative genomics. This repository is a lightly modified adaptation of that workflow.
